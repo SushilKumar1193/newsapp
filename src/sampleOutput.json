@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "FOX Sports",
+      "title": "RJ Young: CFP committee doesn't care about the results of football games",
+      "description": "The latest CFP rankings showed that the committee doesn't care about winning, losing or head-to-head, RJ Young writes.",
+      "url": "http://www.foxsports.com/stories/college-football/rj-young-cfp-committee-doesnt-care-about-the-results-of-football-games",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/11/1408/814/11.09.21_RJ-Youngs-CFP-reax_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2021-11-10T04:46:06Z",
+      "content": "By RJ YoungFOX Sports College Football Writer\r\nThe College Football Playoff selection committee doesnt care about winning football games. Thats what the Week 11 CFP rankings demonstrated once again.\r… [+3698 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": "Kerry Miller",
+      "title": "College Football Playoff Projections: Week 11 Rankings and Bowl Forecast",
+      "description": "Tucked in between a pair of college basketball games, we got a new batch of College Football Playoff rankings on Tuesday night, and the new Top Four is Georgia, Alabama, Oregon and Ohio State, in that order...",
+      "url": "https://bleacherreport.com/articles/2950223-college-football-playoff-projections-week-11-rankings-and-bowl-forecast",
+      "urlToImage": "https://img.bleacherreport.net/img/slides/photos/004/485/611/9c333ff3aa7444be176519b3931298f0_crop_exact.jpg?w=1200&h=1200&q=75",
+      "publishedAt": "2021-11-10T02:48:29Z",
+      "content": "North Carolina's Sam HowellGerry Broome/Associated Press\r\nHere is the breakdown of bowl projections listed alphabetically by conference. New Year's Six games have been italicized and underlined to he… [+2296 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Mark Schlabach",
+      "title": "Ohio State slides into College Football Playoff's top four, joining Georgia, Alabama and Oregon",
+      "description": "After a ho-hum victory over Nebraska on the road last week, coach Ryan Day and Ohio State find themselves in the College Football Playoff's fourth spot this week, behind the mainstays from Week 1, Georgia, Alabama and Oregon.",
+      "url": "http://espn.go.com/college-football/story/_/id/32594054/ohio-state-slides-college-football-playoff-top-four-joining-georgia-alabama-oregon",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1110%2Fr935337_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-11-10T02:10:00Z",
+      "content": "What happens when every College Football Playoff contender except the No. 1 team struggles on the first Saturday of November?Not a whole lot when it comes to the CFP selection committee rankings.The … [+3318 chars]"
+    },
+    {
+      "source": { "id": "nfl-news", "name": "NFL News" },
+      "author": null,
+      "title": "NFL roundup: Latest league news from Tuesday, Nov. 9",
+      "description": "The Dolphins have a short week to prepare for the Ravens. They're hoping it will be enough time for ﻿Tua Tagovailoa﻿ to make his next start. Coach Brian Flores said the second-year QB's availability for Thursday Night Football will be a game-time decision",
+      "url": "https://www.nfl.com/news/nfl-roundup-latest-league-news-from-tuesday-nov-9",
+      "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/ihoeohl5wxaudtd7doik",
+      "publishedAt": "2021-11-09T21:22:42.5348566Z",
+      "content": "The Miami Dolphins have a short week to prepare for the Baltimore Ravens. They're hoping it will be enough time for Tua Tagovailoa to make his next start.\r\nCoach Brian Flores said the second-year qua… [+1198 chars]"
+    },
+    {
+      "source": { "id": "four-four-two", "name": "FourFourTwo" },
+      "author": "FourFourTwo Staff",
+      "title": "Arsenal legend reportedly turns down a chance to join the Newcastle United revolution",
+      "description": "Ajax's director of football and former Arsenal star Marc Overmars is not swayed by the Magpie millions",
+      "url": "https://www.fourfourtwo.com/news/newcastle-united-arsenal-legend-reportedly-turns-down-a-chance-to-join-magpies-marc-overmars-nufc-afc",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aFXaDZXkJVeBJrjrSnYBVS-1200-80.jpg",
+      "publishedAt": "2021-11-09T17:45:14Z",
+      "content": "Marc Overmars, once of Arsenal and Barcelona, has apparently turned down advances to join Newcastle United's new set-up.\r\nThe Dutchman now works as Director of Football for Ajax, where he has been fo… [+1841 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
